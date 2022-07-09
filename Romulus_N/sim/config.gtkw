@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul  7 17:27:21 2022
+[*]
+[dumpfile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Romulus_N/sim/waveform.vcd"
+[dumpfile_mtime] "Thu Jul  7 17:26:48 2022"
+[dumpfile_size] 44857316
+[savefile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Romulus_N/sim/config.gtkw"
+[timestart] 0
+[size] 924 1016
+[pos] 823 0
+*-24.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.dut.
+[sst_width] 233
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+tb.clk
+@200
+-FSM signals
+@24
+tb.dut.state[2:0]
+tb.dut.next_state[2:0]
+@28
+tb.dut.plaintext_valid
+@29
+tb.dut.ciphertext_ready
+@200
+-DPA TBC signals
+@28
+tb.dut.start_dpa
+tb.dut.done_dpa
+@22
+tb.dut.TK1_dpa[127:0]
+tb.dut.TK2_dpa[127:0]
+tb.dut.TK3_dpa[255:0]
+tb.dut.state_in_dpa[255:0]
+tb.dut.state_out_dpa[255:0]
+tb.dut.u_state_out_dpa[127:0]
+[pattern_trace] 1
+[pattern_trace] 0

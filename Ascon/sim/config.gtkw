@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul  7 17:30:48 2022
+[*]
+[dumpfile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Ascon1-4/sim/waveform.vcd"
+[dumpfile_mtime] "Thu Jul  7 17:27:40 2022"
+[dumpfile_size] 17053563
+[savefile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Ascon1-4/sim/config.gtkw"
+[timestart] 0
+[size] 1848 1016
+[pos] -1 -1
+*-20.000000 2322000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.dut.dpa_ascon.
+[sst_width] 233
+[signals_width] 230
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@200
+-FSM signals
+@24
+tb.dut.next_state[2:0]
+tb.dut.state[2:0]
+@200
+-DPA perm signals
+@22
+tb.dut.state_in_dpa[639:0]
+tb.dut.state_out_dpa[639:0]
+tb.dut.state_out_dpa_umsk[319:0]
+@28
+tb.dut.done_dpa
+@200
+-SPA perm signals
+@22
+tb.dut.state_in_spa[319:0]
+tb.dut.state_out_spa[319:0]
+@28
+tb.dut.done_spa
+[pattern_trace] 1
+[pattern_trace] 0

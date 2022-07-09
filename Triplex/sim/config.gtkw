@@ -1,0 +1,182 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul  7 17:18:20 2022
+[*]
+[dumpfile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Triplex/sim/waveform.vcd"
+[dumpfile_mtime] "Thu Jul  7 17:08:44 2022"
+[dumpfile_size] 18497393
+[savefile] "/home/corentin/Documents/aead-modes/TCHES-Triplex/Triplex/sim/config.gtkw"
+[timestart] 4648000
+[size] 989 1016
+[pos] 996 0
+*-20.000000 6050000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.dut.
+[sst_width] 233
+[signals_width] 275
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+tb.clk
+@200
+-FSM signals
+@22
+tb.dut.state[3:0]
+tb.dut.next_state[3:0]
+@200
+-DPA TBC signals
+@28
+tb.dut.start_dpa
+tb.dut.done_dpa
+@22
+tb.dut.state_in_dpa[255:0]
+tb.dut.TK1_dpa[127:0]
+tb.dut.TK2_dpa[127:0]
+tb.dut.TK3_dpa[255:0]
+tb.dut.state_out_dpa[255:0]
+tb.dut.u_state_out_dpa[127:0]
+@200
+-SPA TBC signals
+@28
+tb.dut.start_spa
+tb.dut.done_spa
+@22
+tb.dut.state_in_spa[127:0]
+tb.dut.TK1_spa[127:0]
+tb.dut.TK2_spa[127:0]
+tb.dut.TK3_spa[127:0]
+@c00022
+tb.dut.state_out_spa[127:0]
+@28
+(0)tb.dut.state_out_spa[127:0]
+(1)tb.dut.state_out_spa[127:0]
+(2)tb.dut.state_out_spa[127:0]
+(3)tb.dut.state_out_spa[127:0]
+(4)tb.dut.state_out_spa[127:0]
+(5)tb.dut.state_out_spa[127:0]
+(6)tb.dut.state_out_spa[127:0]
+(7)tb.dut.state_out_spa[127:0]
+(8)tb.dut.state_out_spa[127:0]
+(9)tb.dut.state_out_spa[127:0]
+(10)tb.dut.state_out_spa[127:0]
+(11)tb.dut.state_out_spa[127:0]
+(12)tb.dut.state_out_spa[127:0]
+(13)tb.dut.state_out_spa[127:0]
+(14)tb.dut.state_out_spa[127:0]
+(15)tb.dut.state_out_spa[127:0]
+(16)tb.dut.state_out_spa[127:0]
+(17)tb.dut.state_out_spa[127:0]
+(18)tb.dut.state_out_spa[127:0]
+(19)tb.dut.state_out_spa[127:0]
+(20)tb.dut.state_out_spa[127:0]
+(21)tb.dut.state_out_spa[127:0]
+(22)tb.dut.state_out_spa[127:0]
+(23)tb.dut.state_out_spa[127:0]
+(24)tb.dut.state_out_spa[127:0]
+(25)tb.dut.state_out_spa[127:0]
+(26)tb.dut.state_out_spa[127:0]
+(27)tb.dut.state_out_spa[127:0]
+(28)tb.dut.state_out_spa[127:0]
+(29)tb.dut.state_out_spa[127:0]
+(30)tb.dut.state_out_spa[127:0]
+(31)tb.dut.state_out_spa[127:0]
+(32)tb.dut.state_out_spa[127:0]
+(33)tb.dut.state_out_spa[127:0]
+(34)tb.dut.state_out_spa[127:0]
+(35)tb.dut.state_out_spa[127:0]
+(36)tb.dut.state_out_spa[127:0]
+(37)tb.dut.state_out_spa[127:0]
+(38)tb.dut.state_out_spa[127:0]
+(39)tb.dut.state_out_spa[127:0]
+(40)tb.dut.state_out_spa[127:0]
+(41)tb.dut.state_out_spa[127:0]
+(42)tb.dut.state_out_spa[127:0]
+(43)tb.dut.state_out_spa[127:0]
+(44)tb.dut.state_out_spa[127:0]
+(45)tb.dut.state_out_spa[127:0]
+(46)tb.dut.state_out_spa[127:0]
+(47)tb.dut.state_out_spa[127:0]
+(48)tb.dut.state_out_spa[127:0]
+(49)tb.dut.state_out_spa[127:0]
+(50)tb.dut.state_out_spa[127:0]
+(51)tb.dut.state_out_spa[127:0]
+(52)tb.dut.state_out_spa[127:0]
+(53)tb.dut.state_out_spa[127:0]
+(54)tb.dut.state_out_spa[127:0]
+(55)tb.dut.state_out_spa[127:0]
+(56)tb.dut.state_out_spa[127:0]
+(57)tb.dut.state_out_spa[127:0]
+(58)tb.dut.state_out_spa[127:0]
+(59)tb.dut.state_out_spa[127:0]
+(60)tb.dut.state_out_spa[127:0]
+(61)tb.dut.state_out_spa[127:0]
+(62)tb.dut.state_out_spa[127:0]
+(63)tb.dut.state_out_spa[127:0]
+(64)tb.dut.state_out_spa[127:0]
+(65)tb.dut.state_out_spa[127:0]
+(66)tb.dut.state_out_spa[127:0]
+(67)tb.dut.state_out_spa[127:0]
+(68)tb.dut.state_out_spa[127:0]
+(69)tb.dut.state_out_spa[127:0]
+(70)tb.dut.state_out_spa[127:0]
+(71)tb.dut.state_out_spa[127:0]
+(72)tb.dut.state_out_spa[127:0]
+(73)tb.dut.state_out_spa[127:0]
+(74)tb.dut.state_out_spa[127:0]
+(75)tb.dut.state_out_spa[127:0]
+(76)tb.dut.state_out_spa[127:0]
+(77)tb.dut.state_out_spa[127:0]
+(78)tb.dut.state_out_spa[127:0]
+(79)tb.dut.state_out_spa[127:0]
+(80)tb.dut.state_out_spa[127:0]
+(81)tb.dut.state_out_spa[127:0]
+(82)tb.dut.state_out_spa[127:0]
+(83)tb.dut.state_out_spa[127:0]
+(84)tb.dut.state_out_spa[127:0]
+(85)tb.dut.state_out_spa[127:0]
+(86)tb.dut.state_out_spa[127:0]
+(87)tb.dut.state_out_spa[127:0]
+(88)tb.dut.state_out_spa[127:0]
+(89)tb.dut.state_out_spa[127:0]
+(90)tb.dut.state_out_spa[127:0]
+(91)tb.dut.state_out_spa[127:0]
+(92)tb.dut.state_out_spa[127:0]
+(93)tb.dut.state_out_spa[127:0]
+(94)tb.dut.state_out_spa[127:0]
+(95)tb.dut.state_out_spa[127:0]
+(96)tb.dut.state_out_spa[127:0]
+(97)tb.dut.state_out_spa[127:0]
+(98)tb.dut.state_out_spa[127:0]
+(99)tb.dut.state_out_spa[127:0]
+(100)tb.dut.state_out_spa[127:0]
+(101)tb.dut.state_out_spa[127:0]
+(102)tb.dut.state_out_spa[127:0]
+(103)tb.dut.state_out_spa[127:0]
+(104)tb.dut.state_out_spa[127:0]
+(105)tb.dut.state_out_spa[127:0]
+(106)tb.dut.state_out_spa[127:0]
+(107)tb.dut.state_out_spa[127:0]
+(108)tb.dut.state_out_spa[127:0]
+(109)tb.dut.state_out_spa[127:0]
+(110)tb.dut.state_out_spa[127:0]
+(111)tb.dut.state_out_spa[127:0]
+(112)tb.dut.state_out_spa[127:0]
+(113)tb.dut.state_out_spa[127:0]
+(114)tb.dut.state_out_spa[127:0]
+(115)tb.dut.state_out_spa[127:0]
+(116)tb.dut.state_out_spa[127:0]
+(117)tb.dut.state_out_spa[127:0]
+(118)tb.dut.state_out_spa[127:0]
+(119)tb.dut.state_out_spa[127:0]
+(120)tb.dut.state_out_spa[127:0]
+(121)tb.dut.state_out_spa[127:0]
+(122)tb.dut.state_out_spa[127:0]
+(123)tb.dut.state_out_spa[127:0]
+(124)tb.dut.state_out_spa[127:0]
+(125)tb.dut.state_out_spa[127:0]
+(126)tb.dut.state_out_spa[127:0]
+(127)tb.dut.state_out_spa[127:0]
+@1401200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

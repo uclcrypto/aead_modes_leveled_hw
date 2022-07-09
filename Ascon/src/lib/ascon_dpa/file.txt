@@ -1,0 +1,15 @@
+Ascon_FSM.v
+Ascon_tb.v
+CstGen.v
+encrypt.v
+MSKand_HPC2.v
+MSKcst.v
+MSKinitState.v
+MSKinv.v
+MSKmux.v
+MSK_PermC.v
+MSK_PermL.v
+MSKreg.v
+MSKregEn.v
+MSK_Sbox.v
+MSKxor.v
